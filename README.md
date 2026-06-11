@@ -6,3 +6,4 @@
 | 5025251252 | Matthew Adrian Putra   |
 | 5025251253 | Darryl Ardan Wicaksono |
 
+[Tugas Project](./komnumFP.cpp)
